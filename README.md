@@ -1,2 +1,2 @@
 # vowels.sh
-a bash script for Linux to count how many vowels are in a total sentence
+this is files containing final projects I have done in college in intro to Linux.
